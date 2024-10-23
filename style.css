@@ -1,0 +1,104 @@
+
+/* Font and Body Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eef1f5;
+    margin: 0;
+}
+
+/* Container Styling */
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 900px;
+}
+
+/* Heading Styling */
+h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+/* Canvas Styling */
+canvas {
+    width: 300px;
+    height: 300px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Button Styling */
+button {
+    padding: 12px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#hintBtn {
+    background-color: #ffc107;
+    color: #333;
+}
+
+#hintBtn:hover {
+    background-color: #e0a800;
+}
+
+/* Feedback and Hint Styling */
+#feedback, #hintMessage {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+/* Game Status Styling */
+#score, #level, #timer {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Ukuran lebih kecil untuk logo */
+.header-img {
+    max-width: 150px; /* Ubah ukuran sesuai kebutuhan, misal 150px */
+    height: auto; /* Agar tinggi menyesuaikan proporsi */
+}
+
+
+/* Footer Styling */
+/* Pastikan body dan html memenuhi tinggi penuh halaman */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Container utama */
+.container {
+    flex: 1; /* Membuat konten utama memenuhi sisa ruang */
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+
