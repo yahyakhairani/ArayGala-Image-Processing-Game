@@ -1,5 +1,3 @@
----
-
 # ArayGala Image Processing Game
 
 ## Deskripsi Proyek
@@ -7,7 +5,6 @@
 
 Permainan terdiri dari beberapa level, di mana tingkat kesulitan akan meningkat seiring dengan bertambahnya level. Pemain harus menebak satu operasi di level awal dan dua operasi di level yang lebih tinggi. Pemain diberikan opsi untuk meminta petunjuk (hint) dan diberikan skor berdasarkan jawaban yang benar.
 
----
 
 ## Fitur Utama
 - **Multiple image processing operations**: Game ini menggunakan operasi seperti **brightness**, **grayscale**, **invert**, **blur**, **sharpen**, **edge detection**, dan **emboss**.
