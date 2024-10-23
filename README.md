@@ -47,7 +47,7 @@ Link = https://yahyakhairani.github.io/ArayGala-Image-Processing-Game/
 ### 1. Clone Repository
 Clone repository ini ke mesin lokal Anda:
 ```bash
-git clone https://github.com/username/araygala-image-game.git
+git clone https://github.com/yahyakhairani/ArayGala-Image-Processing-Game.git
 ```
 
 ### 2. Persyaratan
