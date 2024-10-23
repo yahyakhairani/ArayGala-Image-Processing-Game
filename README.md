@@ -41,7 +41,7 @@ Permainan terdiri dari beberapa level, di mana tingkat kesulitan akan meningkat 
 ## Instalasi dan Penggunaan
 
 ---
-Link = 
+Link = https://yahyakhairani.github.io/ArayGala-Image-Processing-Game/
 ---
 
 ### 1. Clone Repository
